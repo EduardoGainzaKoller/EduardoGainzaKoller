@@ -1,6 +1,6 @@
 ### Hi there! I'm Eduardo Gainza Koller 👋
 
-I'm a 4th-year Computer Engineering Student passionate about bringing math and logic to life through code. From simulating gravitational forces to detecting human emotions, I love building complex systems.
+I'm a 4th-year Computer Engineering Student passionate about bringing math and logic to life through code. From simulating gravitational forces to detecting human emotions, I enjoy building complex systems—and I'm also a bodybuilder in my free time. .
 
 **🛠️ Languages & Tools:**
 `Java` `Python` `C` `C++` `JavaScript`
