@@ -11,15 +11,17 @@ I'm a 4th-year Computer Engineering Student passionate about bringing math and l
 
 ---
 
-### 🚀 Highlighted Projects
+### Highlighted Projects
 
-🌌 **N-Body Simulation** (C++)
+**N-Body Simulation** (C++)
 A real-time physics simulation calculating gravitational interactions between celestial bodies using O(N^2) algorithms (some improves coming soon).
 
-🧠 **VC_P5 Emotion Detector** (Python)
+**VC_P5 Emotion Detector** (Python)
 A computer vision project using Neural Networks to detect faces and classify emotions, applying dynamic filters based on the user's mood.
 
-⚖️ **IS2-Pendulum** (Java)
+**IS2-Pendulum** (Java)
 A precise physics simulator for pendulum motion analysis.
 
 ---
+
+I`m also doing my first port-folio. You can check it [HERE](https://personal-portfolio-vert-iota.vercel.app/)!!! 
