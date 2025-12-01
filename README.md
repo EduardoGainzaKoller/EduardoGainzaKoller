@@ -24,4 +24,4 @@ A precise physics simulator for pendulum motion analysis.
 
 ---
 
-I`m also doing my first port-folio. You can check it [HERE](https://personal-portfolio-vert-iota.vercel.app/)!!! 
+I'm also doing my first portfolio. You can check it [HERE](https://personal-portfolio-vert-iota.vercel.app/)!!! 
