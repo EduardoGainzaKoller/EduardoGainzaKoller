@@ -5,9 +5,9 @@ I'm a 4th-year Computer Engineering Student passionate about bringing math and l
 **🛠️ Languages & Tools:**
 `Java` `Python` `C` `C++` `JavaScript`
 **📚 Frameworks:**
-`Angular` `Ionic` `React`
+`Spring` `Angular` `Ionic` `React`
 **☁️ Tech & Databases:**
-`AWS` `Firebase` `SQL` `MongoDB`
+`AWS` `Firebase` `SQL` `MongoDB` `PostgreSQL`
 
 ---
 
